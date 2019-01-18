@@ -1,4 +1,4 @@
-# Softmax-Classifier-with-Cross-Entropy-Loss
+# Softmax Classifier with Cross Entropy Loss
 ## Description:
 A Softmax classifier with cross entropy loss and regularization on cifar10 images written in Python3.
 
